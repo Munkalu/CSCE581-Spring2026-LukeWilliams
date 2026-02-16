@@ -1,0 +1,2083 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Unsafe PH in Florida</name>
+    <description>Based on data from the WaterAtlas Project in Florida this map has been made with the points shown being the points with the most unsafe ph</description>
+    <Style id="icon-1541-F9A825-labelson">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name>unsafe_points.csv</name>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: Church-Lake<br>ResultValue: 5.9<br>Latitude_DD: 28.64625<br>Longitude_DD: -81.84342]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>Church-Lake</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>5.9</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.64625</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.84342</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.84342,28.64625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: Turkey-Lake<br>ResultValue: 6.1<br>Latitude_DD: 28.70128<br>Longitude_DD: -81.85039001]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>Turkey-Lake</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>6.1</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.70128</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.85039001</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.85039001,28.70128,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: Turkey-Lake<br>ResultValue: 6.3<br>Latitude_DD: 28.70128<br>Longitude_DD: -81.85039001]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>Turkey-Lake</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>6.3</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.70128</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.85039001</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.85039001,28.70128,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 732<br>ResultValue: 6<br>Latitude_DD: 28.64211058<br>Longitude_DD: -81.84059736]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>732</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>6.0</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.64211058</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.84059736</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.84059736,28.64211058,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 732<br>ResultValue: 5.7<br>Latitude_DD: 28.64211058<br>Longitude_DD: -81.84059736]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>732</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>5.7</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.64211058</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.84059736</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.84059736,28.64211058,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 732<br>ResultValue: 6.05<br>Latitude_DD: 28.64211058<br>Longitude_DD: -81.84059736]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>732</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>6.05</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.64211058</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.84059736</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.84059736,28.64211058,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 732<br>ResultValue: 5.9<br>Latitude_DD: 28.64211058<br>Longitude_DD: -81.84059736]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>732</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>5.9</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.64211058</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.84059736</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.84059736,28.64211058,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 732<br>ResultValue: 6.3<br>Latitude_DD: 28.64211058<br>Longitude_DD: -81.84059736]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>732</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>6.3</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.64211058</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.84059736</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.84059736,28.64211058,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 732<br>ResultValue: 6.2<br>Latitude_DD: 28.64211058<br>Longitude_DD: -81.84059736]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>732</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>6.2</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.64211058</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.84059736</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.84059736,28.64211058,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 732<br>ResultValue: 6.1<br>Latitude_DD: 28.64211058<br>Longitude_DD: -81.84059736]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>732</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>6.1</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.64211058</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.84059736</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.84059736,28.64211058,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 732<br>ResultValue: 5.3<br>Latitude_DD: 28.64211058<br>Longitude_DD: -81.84059736]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>732</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>5.3</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.64211058</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.84059736</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.84059736,28.64211058,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 732<br>ResultValue: 5.47<br>Latitude_DD: 28.64211058<br>Longitude_DD: -81.84059736]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>732</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>5.47</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.64211058</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.84059736</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.84059736,28.64211058,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 898<br>ResultValue: 5.39<br>Latitude_DD: 28.63274618<br>Longitude_DD: -81.85989589]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>898</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>5.39</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.63274618</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.85989589</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.85989589,28.63274618,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 732<br>ResultValue: 5.7<br>Latitude_DD: 28.64211058<br>Longitude_DD: -81.84059736]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>732</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>5.7</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.64211058</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.84059736</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.84059736,28.64211058,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 732<br>ResultValue: 5.9<br>Latitude_DD: 28.64211058<br>Longitude_DD: -81.84059736]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>732</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>5.9</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.64211058</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.84059736</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.84059736,28.64211058,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 732<br>ResultValue: 6<br>Latitude_DD: 28.64211058<br>Longitude_DD: -81.84059736]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>732</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>6.0</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.64211058</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.84059736</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.84059736,28.64211058,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 732<br>ResultValue: 4.9<br>Latitude_DD: 28.64211058<br>Longitude_DD: -81.84059736]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>732</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>4.9</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.64211058</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.84059736</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.84059736,28.64211058,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 20020330       <br>ResultValue: 6.2<br>Latitude_DD: 28.679167<br>Longitude_DD: -81.884778]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>20020330       </value>
+          </Data>
+          <Data name="ResultValue">
+            <value>6.2</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.679167</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.884778</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.884778,28.679167,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 20020330       <br>ResultValue: 5.9<br>Latitude_DD: 28.679167<br>Longitude_DD: -81.884778]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>20020330       </value>
+          </Data>
+          <Data name="ResultValue">
+            <value>5.9</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.679167</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.884778</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.884778,28.679167,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 20020330       <br>ResultValue: 6.1<br>Latitude_DD: 28.679167<br>Longitude_DD: -81.884778]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>20020330       </value>
+          </Data>
+          <Data name="ResultValue">
+            <value>6.1</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.679167</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.884778</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.884778,28.679167,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 20020330       <br>ResultValue: 5.8<br>Latitude_DD: 28.679167<br>Longitude_DD: -81.884778]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>20020330       </value>
+          </Data>
+          <Data name="ResultValue">
+            <value>5.8</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.679167</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.884778</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.884778,28.679167,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 20020330       <br>ResultValue: 6.2<br>Latitude_DD: 28.679167<br>Longitude_DD: -81.884778]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>20020330       </value>
+          </Data>
+          <Data name="ResultValue">
+            <value>6.2</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.679167</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.884778</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.884778,28.679167,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 20020330       <br>ResultValue: 6.1<br>Latitude_DD: 28.679167<br>Longitude_DD: -81.884778]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>20020330       </value>
+          </Data>
+          <Data name="ResultValue">
+            <value>6.1</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.679167</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.884778</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.884778,28.679167,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 20020330       <br>ResultValue: 5.25<br>Latitude_DD: 28.679167<br>Longitude_DD: -81.884778]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>20020330       </value>
+          </Data>
+          <Data name="ResultValue">
+            <value>5.25</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.679167</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.884778</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.884778,28.679167,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 20020330       <br>ResultValue: 5.9<br>Latitude_DD: 28.679167<br>Longitude_DD: -81.884778]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>20020330       </value>
+          </Data>
+          <Data name="ResultValue">
+            <value>5.9</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.679167</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.884778</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.884778,28.679167,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 20020330       <br>ResultValue: 5.4<br>Latitude_DD: 28.679167<br>Longitude_DD: -81.884778]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>20020330       </value>
+          </Data>
+          <Data name="ResultValue">
+            <value>5.4</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.679167</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.884778</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.884778,28.679167,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 20020330       <br>ResultValue: 5.5<br>Latitude_DD: 28.679167<br>Longitude_DD: -81.884778]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>20020330       </value>
+          </Data>
+          <Data name="ResultValue">
+            <value>5.5</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.679167</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.884778</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.884778,28.679167,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 44472<br>ResultValue: 6<br>Latitude_DD: 28.7525<br>Longitude_DD: -81.9016667]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>44472</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>6.0</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.7525</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.9016667</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.9016667,28.7525,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 44530<br>ResultValue: 5.96<br>Latitude_DD: 28.7480325<br>Longitude_DD: -81.8748525]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>44530</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>5.96</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.7480325</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.8748525</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.8748525,28.7480325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 44530<br>ResultValue: 6.33<br>Latitude_DD: 28.7480325<br>Longitude_DD: -81.8748525]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>44530</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>6.33</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.7480325</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.8748525</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.8748525,28.7480325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 44530<br>ResultValue: 6.38<br>Latitude_DD: 28.7480325<br>Longitude_DD: -81.8748525]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>44530</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>6.38</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.7480325</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.8748525</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.8748525,28.7480325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 44530<br>ResultValue: 5.43<br>Latitude_DD: 28.7480325<br>Longitude_DD: -81.8748525]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>44530</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>5.43</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.7480325</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.8748525</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.8748525,28.7480325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 44530<br>ResultValue: 5.79<br>Latitude_DD: 28.7480325<br>Longitude_DD: -81.8748525]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>44530</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>5.79</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.7480325</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.8748525</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.8748525,28.7480325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 44530<br>ResultValue: 5.68<br>Latitude_DD: 28.7480325<br>Longitude_DD: -81.8748525]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>44530</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>5.68</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.7480325</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.8748525</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.8748525,28.7480325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 44530<br>ResultValue: 5.18<br>Latitude_DD: 28.7480325<br>Longitude_DD: -81.8748525]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>44530</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>5.18</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.7480325</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.8748525</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.8748525,28.7480325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 44530<br>ResultValue: 5.17<br>Latitude_DD: 28.7480325<br>Longitude_DD: -81.8748525]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>44530</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>5.17</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.7480325</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.8748525</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.8748525,28.7480325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 44530<br>ResultValue: 6.32<br>Latitude_DD: 28.7480325<br>Longitude_DD: -81.8748525]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>44530</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>6.32</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.7480325</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.8748525</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.8748525,28.7480325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 44530<br>ResultValue: 5.95<br>Latitude_DD: 28.7480325<br>Longitude_DD: -81.8748525]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>44530</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>5.95</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.7480325</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.8748525</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.8748525,28.7480325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 44530<br>ResultValue: 5.82<br>Latitude_DD: 28.7480325<br>Longitude_DD: -81.8748525]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>44530</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>5.82</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.7480325</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.8748525</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.8748525,28.7480325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 44530<br>ResultValue: 5.96<br>Latitude_DD: 28.7480325<br>Longitude_DD: -81.8748525]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>44530</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>5.96</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.7480325</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.8748525</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.8748525,28.7480325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 22519<br>ResultValue: 5.97<br>Latitude_DD: 28.75398722<br>Longitude_DD: -81.87490917]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>22519</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>5.97</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.75398722</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.87490917</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.87490917,28.75398722,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 42420<br>ResultValue: 5.2<br>Latitude_DD: 28.6647125<br>Longitude_DD: -81.84201]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>42420</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>5.2</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.6647125</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.84201</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.84201,28.6647125,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 22519<br>ResultValue: 6.07<br>Latitude_DD: 28.75398722<br>Longitude_DD: -81.87490917]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>22519</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>6.07</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.75398722</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.87490917</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.87490917,28.75398722,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 42420<br>ResultValue: 5.2<br>Latitude_DD: 28.6647125<br>Longitude_DD: -81.84201]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>42420</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>5.2</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.6647125</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.84201</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.84201,28.6647125,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 8136<br>ResultValue: 6.47<br>Latitude_DD: 28.72030278<br>Longitude_DD: -81.88455139]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>8136</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>6.47</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.72030278</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.88455139</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.88455139,28.72030278,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 44530<br>ResultValue: 6.1<br>Latitude_DD: 28.7480325<br>Longitude_DD: -81.8748525]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>44530</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>6.1</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.7480325</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.8748525</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.8748525,28.7480325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 44530<br>ResultValue: 5.94<br>Latitude_DD: 28.7480325<br>Longitude_DD: -81.8748525]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>44530</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>5.94</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.7480325</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.8748525</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.8748525,28.7480325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 44530<br>ResultValue: 6.27<br>Latitude_DD: 28.7480325<br>Longitude_DD: -81.8748525]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>44530</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>6.27</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.7480325</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.8748525</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.8748525,28.7480325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 44530<br>ResultValue: 6.35<br>Latitude_DD: 28.7480325<br>Longitude_DD: -81.8748525]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>44530</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>6.35</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.7480325</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.8748525</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.8748525,28.7480325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 44530<br>ResultValue: 5.83<br>Latitude_DD: 28.7480325<br>Longitude_DD: -81.8748525]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>44530</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>5.83</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.7480325</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.8748525</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.8748525,28.7480325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 44530<br>ResultValue: 6.18<br>Latitude_DD: 28.7480325<br>Longitude_DD: -81.8748525]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>44530</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>6.18</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.7480325</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.8748525</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.8748525,28.7480325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 44530<br>ResultValue: 6.32<br>Latitude_DD: 28.7480325<br>Longitude_DD: -81.8748525]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>44530</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>6.32</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.7480325</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.8748525</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.8748525,28.7480325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 44530<br>ResultValue: 6.37<br>Latitude_DD: 28.7480325<br>Longitude_DD: -81.8748525]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>44530</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>6.37</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.7480325</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.8748525</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.8748525,28.7480325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 44530<br>ResultValue: 6.12<br>Latitude_DD: 28.7480325<br>Longitude_DD: -81.8748525]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>44530</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>6.12</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.7480325</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.8748525</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.8748525,28.7480325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 44530<br>ResultValue: 6.24<br>Latitude_DD: 28.7480325<br>Longitude_DD: -81.8748525]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>44530</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>6.24</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.7480325</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.8748525</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.8748525,28.7480325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 44530<br>ResultValue: 6.35<br>Latitude_DD: 28.7480325<br>Longitude_DD: -81.8748525]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>44530</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>6.35</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.7480325</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.8748525</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.8748525,28.7480325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 54165<br>ResultValue: 6.47<br>Latitude_DD: 28.72027778<br>Longitude_DD: -81.88444444]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>54165</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>6.47</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.72027778</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.88444444</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.88444444,28.72027778,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 54170<br>ResultValue: 6.13<br>Latitude_DD: 28.66361111<br>Longitude_DD: -81.84944445]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>54170</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>6.13</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.66361111</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.84944445</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.84944445,28.66361111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 79092<br>ResultValue: 6.07<br>Latitude_DD: 28.754084<br>Longitude_DD: -81.87513]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>79092</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>6.07</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.754084</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.87513</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.87513,28.754084,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 79092<br>ResultValue: 5.97<br>Latitude_DD: 28.754084<br>Longitude_DD: -81.87513]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>79092</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>5.97</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.754084</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.87513</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.87513,28.754084,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 02237293<br>ResultValue: 6<br>Latitude_DD: 28.74419999<br>Longitude_DD: -81.8728]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>02237293</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>6.0</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.74419999</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.8728</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.8728,28.74419999,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 02237293<br>ResultValue: 6.1<br>Latitude_DD: 28.74419999<br>Longitude_DD: -81.8728]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>02237293</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>6.1</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.74419999</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.8728</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.8728,28.74419999,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 02237293<br>ResultValue: 5.9<br>Latitude_DD: 28.74419999<br>Longitude_DD: -81.8728]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>02237293</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>5.9</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.74419999</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.8728</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.8728,28.74419999,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 02237293<br>ResultValue: 5.8<br>Latitude_DD: 28.74419999<br>Longitude_DD: -81.8728]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>02237293</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>5.8</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.74419999</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.8728</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.8728,28.74419999,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 02237293<br>ResultValue: 6.2<br>Latitude_DD: 28.74419999<br>Longitude_DD: -81.8728]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>02237293</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>6.2</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.74419999</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.8728</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.8728,28.74419999,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 02237293<br>ResultValue: 6<br>Latitude_DD: 28.74419999<br>Longitude_DD: -81.8728]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>02237293</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>6.0</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.74419999</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.8728</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.8728,28.74419999,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 02237293<br>ResultValue: 6.4<br>Latitude_DD: 28.74419999<br>Longitude_DD: -81.8728]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>02237293</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>6.4</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.74419999</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.8728</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.8728,28.74419999,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 02237293<br>ResultValue: 6.1<br>Latitude_DD: 28.74419999<br>Longitude_DD: -81.8728]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>02237293</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>6.1</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.74419999</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.8728</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.8728,28.74419999,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 02237293<br>ResultValue: 6.2<br>Latitude_DD: 28.74419999<br>Longitude_DD: -81.8728]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>02237293</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>6.2</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.74419999</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.8728</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.8728,28.74419999,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 02237293<br>ResultValue: 6.2<br>Latitude_DD: 28.74419999<br>Longitude_DD: -81.8728]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>02237293</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>6.2</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.74419999</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.8728</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.8728,28.74419999,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 02237293<br>ResultValue: 6.2<br>Latitude_DD: 28.74419999<br>Longitude_DD: -81.8728]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>02237293</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>6.2</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.74419999</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.8728</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.8728,28.74419999,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 817<br>ResultValue: 5.8<br>Latitude_DD: 28.67945609<br>Longitude_DD: -81.884452]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>817</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>5.80000019</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.67945609</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.884452</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.884452,28.67945609,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 02237370<br>ResultValue: 5.6<br>Latitude_DD: 28.645<br>Longitude_DD: -81.8464]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>02237370</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>5.6</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.645</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.8464</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.8464,28.645,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 02237370<br>ResultValue: 5.5<br>Latitude_DD: 28.645<br>Longitude_DD: -81.8464]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>02237370</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>5.5</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.645</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.8464</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.8464,28.645,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 02237370<br>ResultValue: 6.1<br>Latitude_DD: 28.645<br>Longitude_DD: -81.8464]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>02237370</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>6.1</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.645</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.8464</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.8464,28.645,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 02237370<br>ResultValue: 6.1<br>Latitude_DD: 28.645<br>Longitude_DD: -81.8464]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>02237370</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>6.1</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.645</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.8464</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.8464,28.645,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 02237370<br>ResultValue: 5.7<br>Latitude_DD: 28.645<br>Longitude_DD: -81.8464]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>02237370</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>5.7</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.645</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.8464</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.8464,28.645,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 02237370<br>ResultValue: 5.5<br>Latitude_DD: 28.645<br>Longitude_DD: -81.8464]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>02237370</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>5.5</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.645</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.8464</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.8464,28.645,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 02237370<br>ResultValue: 5<br>Latitude_DD: 28.645<br>Longitude_DD: -81.8464]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>02237370</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>5.0</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.645</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.8464</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.8464,28.645,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 02237370<br>ResultValue: 5.6<br>Latitude_DD: 28.645<br>Longitude_DD: -81.8464]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>02237370</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>5.6</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.645</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.8464</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.8464,28.645,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 02237370<br>ResultValue: 6<br>Latitude_DD: 28.645<br>Longitude_DD: -81.8464]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>02237370</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>6.0</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.645</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.8464</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.8464,28.645,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 02237370<br>ResultValue: 5.2<br>Latitude_DD: 28.645<br>Longitude_DD: -81.8464]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>02237370</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>5.2</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.645</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.8464</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.8464,28.645,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 02237370<br>ResultValue: 6.1<br>Latitude_DD: 28.645<br>Longitude_DD: -81.8464]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>02237370</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>6.1</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.645</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.8464</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.8464,28.645,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 57032<br>ResultValue: 5.5<br>Latitude_DD: 28.7439511<br>Longitude_DD: -81.87301]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>57032</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>5.5</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.7439511</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.87301</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.87301,28.7439511,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: PLRVBRIDRD<br>ResultValue: 6.13<br>Latitude_DD: 28.67961503<br>Longitude_DD: -81.88457103]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>PLRVBRIDRD</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>6.13</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.67961503</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.88457103</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.88457103,28.67961503,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>no</name>
+        <description><![CDATA[StationID: 44530<br>ResultValue: 6.35<br>Latitude_DD: 28.7480325<br>Longitude_DD: -81.8748525]]></description>
+        <styleUrl>#icon-1541-F9A825-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="StationID">
+            <value>44530</value>
+          </Data>
+          <Data name="ResultValue">
+            <value>6.35</value>
+          </Data>
+          <Data name="Latitude_DD">
+            <value>28.7480325</value>
+          </Data>
+          <Data name="Longitude_DD">
+            <value>-81.8748525</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -81.8748525,28.7480325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

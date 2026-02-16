@@ -1,3 +1,4 @@
+#Q1.py
 import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split
@@ -5,12 +6,13 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.linear_model import LogisticRegression
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score, roc_auc_score, confusion_matrix
+##grabs the data from the github and reads it in
 url = "https://raw.githubusercontent.com/propublica/compas-analysis/master/compas-scores-two-years.csv"
 df = pd.read_csv(url)
 
 print("Original shape:", df.shape)
 df = df.dropna(subset=["days_b_screening_arrest"])
-
+#Filters the data with the propublica conditions
 df = df[
     (df.days_b_screening_arrest <= 30) &
     (df.days_b_screening_arrest >= -30) &
@@ -32,39 +34,39 @@ X_train, X_test, y_train, y_test = train_test_split(
 scaler = StandardScaler()
 X_train_scaled = scaler.fit_transform(X_train)
 X_test_scaled = scaler.transform(X_test)
-
+#trains the logistic regression model off the COMPAS data
 lr = LogisticRegression()
 lr.fit(X_train_scaled, y_train)
 
 lr_pred = lr.predict(X_test_scaled)
 lr_prob = lr.predict_proba(X_test_scaled)[:,1]
-
+#prints the confusion matrix, Acurracy, PPV, FPR, and FNR of the Logistic Regression
 print("Logistic Regression")
 cm = confusion_matrix(y_test, lr_pred)
 TN, FP, FN, TP = cm.ravel()
 
-print("Confusion Matrix:")
+print("Confusion Matrix: ")
 print(cm)
-print("Accuracy :", (TN + TP) / (TN + TP + FN + FP))
-print("PPV :", TP / (TP + FP))
-print("FPR:", FP / (FP + TN))
-print("FNR:", FN / (FN + TP))
+print("Accuracy: ", (TN + TP) / (TN + TP + FN + FP))
+print("PPV: ", TP / (TP + FP))
+print("FPR: ", FP / (FP + TN))
+print("FNR: ", FN / (FN + TP))
 print()
-
+#trains randomForest off the data given by COMPAS
 rf = RandomForestClassifier(n_estimators=200, random_state=42)
 rf.fit(X_train, y_train)
 
 rf_pred = rf.predict(X_test)
 rf_prob = rf.predict_proba(X_test)[:,1]
-
+#prints the confusion matrix, Acurracy, PPV, FPR, and FNR of the Random Forest
 print("\nRandom Forest")
 cm = confusion_matrix(y_test, rf_pred)
 TN, FP, FN, TP = cm.ravel()
 
-print("Confusion Matrix:")
+print("Confusion Matrix: ")
 print(cm)
 print("Accuracy :", (TN + TP) / (TN + TP + FN + FP))
-print("PPV :", TP / (TP + FP))
-print("FPR:", FP / (FP + TN))
-print("FNR:", FN / (FN + TP))
+print("PPV: ", TP / (TP + FP))
+print("FPR: ", FP / (FP + TN))
+print("FNR: ", FN / (FN + TP))
 print()
